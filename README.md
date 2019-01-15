@@ -2,6 +2,9 @@ HQ Grevic
 =================
 HQ Grevic : Futura-like Sans Serif font family
 
+![title](https://github.com/akzm9999/HQ-Grevic/HQ-Grevic-Title.png)<br>
+![title](https://github.com/akzm9999/HQ-Grevic/HQ-Grevic-Sample.png)
+
 ## Download
  - [TTF](https://github.com/akzm9999/HQ-Grevic/releases/v1.0.0/HQ-Grevic-v1.0.0-all.zip)
 
